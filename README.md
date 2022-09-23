@@ -1,6 +1,17 @@
+### `$ whoami`
+
+### Hi there, I'm Tan Thuan ✔️
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+an+information+technology+engineer;I'm+a+Full+Stack+Developer;"></p>
+
 ## 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tanthuan031) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanthuan031)
+
+- 🇻🇳 : I'm from VietNam
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻Tech Stack
 
@@ -68,6 +79,71 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" title="Docker" height="20" />
 </span>
 &nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=tanthuan031">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=tanthuan031&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanthuan031">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanthuan031&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://activity-graph.herokuapp.com/graph?username=tanthuan031">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=tanthuan031&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanthuan031">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanthuan031&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanthuan031&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanthuan031&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanthuan031">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanthuan031&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanthuan031">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanthuan031&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆GitHub Trophies
 
